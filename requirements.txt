@@ -1,0 +1,17 @@
+beautifulsoup4==4.11.1
+dateparser==1.1.6
+joblib==1.2.0
+numpy==1.24.1
+pandas==1.5.2
+python-dateutil==2.8.2
+pytz==2022.7
+pytz-deprecation-shim==0.1.0.post0
+regex==2022.10.31
+scikit-learn==1.2.0
+scipy==1.10.0
+six==1.16.0
+soupsieve==2.3.2.post1
+tenacity==8.1.0
+threadpoolctl==3.1.0
+tzdata==2022.7
+tzlocal==4.2
